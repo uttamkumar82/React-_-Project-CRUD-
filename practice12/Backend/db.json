@@ -1,0 +1,35 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Debajyoti"
+    },
+    {
+      "name": "DG",
+      "salary": "700000",
+      "company": "Alphabet",
+      "id": 2
+    },
+    {
+      "name": "Chiranjit",
+      "salary": "100000",
+      "company": "Infosys",
+      "id": 3
+    },
+    {
+      "name": "uttam",
+      "salary": "7686",
+      "company": "ytre",
+      "id": 4
+    },
+    {
+      "name": "rajesh",
+      "salary": "56787",
+      "company": "ytys",
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ]
+}
